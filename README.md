@@ -82,5 +82,3 @@ The model architecture combines the feature extraction capabilities of **CNNs** 
 
 - **Pretrained Models:**  
   Leverage pretrained audio feature extraction models such as **Wav2Vec** or **OpenL3** to improve the initial feature representations.
-
----
