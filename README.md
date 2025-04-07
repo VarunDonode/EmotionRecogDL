@@ -84,5 +84,3 @@ The model architecture combines the feature extraction capabilities of **CNNs** 
   Leverage pretrained audio feature extraction models such as **Wav2Vec** or **OpenL3** to improve the initial feature representations.
 
 ---
-
-Happy coding and exploring the nuances of audio emotion recognition!
